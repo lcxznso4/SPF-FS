@@ -1,6 +1,7 @@
 # SPF-FS: A Self-Paced Framework Fusing Feature Selection and Clustering with Prior Knowledge for scRNA-seq
 
 SPF-FS is a novel two-tier optimization framework for feature selection in single-cell RNA sequencing (scRNA-seq) data. It combines multiple feature selection methods with Gene Ontology Biological Process (GO-BP) priors to jointly reduce high-dimensional noise and improve biological interpretability.
+
 🌟 Key Features
 
 
